@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "btpLVZeQU0E=",
+  "success": true,
+  "projectFilePath": "/Users/vadimlyamin/Desktop/SubscriptionService– 1/SubscriptionService.Core/SubscriptionService.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/vadimlyamin/.nuget/packages/bcrypt.net-next/4.2.0/bcrypt.net-next.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SubscriptionService.Api/SubscriptionService.Api.csproj" />
+  <Project Path="SubscriptionService.Core/SubscriptionService.Core.csproj" />
+  <Project Path="SubscriptionService.Infrastructure/SubscriptionService.Infrastructure.csproj" />
+  <Project Path="SubscriptionService.Tests/SubscriptionService.Tests.csproj" />
+</Solution>

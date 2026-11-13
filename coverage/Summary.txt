@@ -1,0 +1,28 @@
+Summary
+  Generated on: 11/13/2026 - 1:13:39 PM
+  Coverage date: 11/13/2026 - 1:13:21 PM
+  Parser: Cobertura
+  Assemblies: 1
+  Classes: 6
+  Files: 6
+  Line coverage: 100%
+  Covered lines: 282
+  Uncovered lines: 0
+  Coverable lines: 282
+  Total lines: 439
+  Branch coverage: 100% (120 of 120)
+  Covered branches: 120
+  Total branches: 120
+  Method coverage: 100% (34 of 34)
+  Full method coverage: 100% (34 of 34)
+  Covered methods: 34
+  Fully covered methods: 34
+  Total methods: 34
+
+SubscriptionService.Core                                    100%
+  SubscriptionService.Core.Services.AnalyticsService        100%
+  SubscriptionService.Core.Services.AuthService             100%
+  SubscriptionService.Core.Services.PaymentsService         100%
+  SubscriptionService.Core.Services.PeriodCalculator        100%
+  SubscriptionService.Core.Services.SubscriptionsService    100%
+  SubscriptionService.Core.Services.UserService             100%
